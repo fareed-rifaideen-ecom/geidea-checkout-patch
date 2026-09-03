@@ -1,6 +1,7 @@
 <?php
 /**
  * Plugin Name: Geidea Checkout Patch
+ * Plugin URI: https://github.com/fareed-rifaideen-ecom/geidea-checkout-patch
  * Description: Resolves redirection routing and webhook fatal errors in the Geidea Payment Gateway.
  * Version: 1.0.0
  * Author: Fareed M. Rifaideen
