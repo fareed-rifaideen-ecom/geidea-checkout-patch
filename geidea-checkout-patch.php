@@ -3,8 +3,8 @@
  * Plugin Name: Geidea Checkout Patch
  * Description: Resolves redirection routing and webhook fatal errors in the Geidea Payment Gateway.
  * Version: 1.0.0
- * Author: E-commerce Web Development Team
- * Author URI: https://thecyclehub.com
+ * Author: Fareed M. Rifaideen
+ * Author URI: https://fareed-rifaideen.netlify.app/
  */
 
 if ( ! defined( 'ABSPATH' ) ) {
